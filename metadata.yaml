@@ -1,0 +1,33 @@
+_repo: The-Guardians-of-the-ColumbiaMount-Hood-Mount-Adams-and-Mount-St.-Helens_42893
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42893-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, John H. (John Harvey)
+    alias: Williams, John Harvey
+    birthdate: 1864
+    gutenberg_agent_id: '25066'
+    url: http://www.gutenberg.org/2009/agents/25066
+description: ''
+gutenberg_issued: '2013-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42893'
+  lccn: '12020313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hood, Mount (Or.)'
+- !lcc 'F850.5'
+- !lcsh 'Saint Helens, Mount (Wash.)'
+- !lcsh 'Columbia River'
+- !lcsh 'Cascade Range'
+- !lcsh 'Adams, Mount (Wash.)'
+title: 'The Guardians of the Columbia
+
+  Mount Hood, Mount Adams and Mount St. Helens'
+url: http://www.gutenberg.org/ebooks/42893
